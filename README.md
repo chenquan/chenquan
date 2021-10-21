@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenquan&show_icons=true&include_all_commits=true)](https://github.com/chenquan)
+Here are some quick things about me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenquan&layout=compact)](https://github.com/chenquan)
+- 🔭 I’m currently working on chg.
+- 🌱 I’m currently learning go and rust.
+- 👯 I’m looking to collaborate on open source.
+- 💬 Ask me about go and deep learning.
+- 📫 How to reach me: chenquan.dev@foxmail.com
+- ⚡ Fun fact: coding is my passion
+
+
+[![](https://raw.githubusercontent.com/chenquan/chenquan/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/chenquan/chenquan/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/chenquan/chenquan/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/chenquan/chenquan/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/chenquan/chenquan/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
