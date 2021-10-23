@@ -21,7 +21,7 @@ Here are some quick things about me:
 - 🌱 I’m currently learning go and rust.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about go and deep learning.
-- 📫 How to reach me: chenquan.dev@foxmail.com
+- 📫 How to reach me: chenquan.dev@gmail.com
 - ⚡ Fun fact: coding is my passion
 
 
