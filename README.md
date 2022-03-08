@@ -19,7 +19,7 @@ Here are some quick things about me:
 
 - 🔭 I’m currently working on chg.
 - 🌱 I’m currently learning go and rust.
-- 👯 I’m looking to collaborate on open source. I'm currently one of the core contributors to [go-zero](https://github.com/zeromicro/go-zero).
+- 👯 I’m looking to collaborate on open source. I'm currently one of the core contributors to [go-zero](https://github.com/zeromicro/go-zero) and a member of [zeromicro](github.com/zeromicro/go-zero).
 - 💬 Ask me about go and deep learning.
 - 📫 How to reach me: chenquan.dev@gmail.com
 - ⚡ Fun fact: coding is my passion
