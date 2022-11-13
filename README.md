@@ -25,3 +25,5 @@ Here are some quick things about me:
 
 
 [![](https://raw.githubusercontent.com/chenquan/chenquan/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/chenquan)
+[![](https://raw.githubusercontent.com/chenquan/chenquan/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/chenquan) 
+[![](https://raw.githubusercontent.com/chenquan/chenquan/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/chenquan)
