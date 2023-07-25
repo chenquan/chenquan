@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 Here are some quick things about me:
 
-- 🔭 I’m currently working on chg.
 - 🌱 I’m currently learning go, rust and deep learning.
 - 👯 I’m looking to collaborate on open source. I'm currently one of the core maintainer to [go-zero](https://github.com/zeromicro/go-zero).
 - 💬 Ask me about go, deep learning.
