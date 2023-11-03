@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/chenquan/chenquan/master/profile-summary-card-output/aura/4-productive-time.svg)
+```
+
+    
