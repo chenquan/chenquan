@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Here are some quick things about me:
-- 🔭 I am the author of [ArkFlow](https://arkflow-rs.com).
+- 🔭 I'm the author of [ArkFlow](https://arkflow-rs.com).
 - 🌱 I’m currently learning go, rust and deep learning.
 - 👯 I’m looking to collaborate on open source. 
 - 💬 Ask me about go, rust and deep learning.
